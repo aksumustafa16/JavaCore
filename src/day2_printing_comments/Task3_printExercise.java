@@ -1,6 +1,6 @@
 package day2_printing_comments;
 
-public class printExercise {
+public class Task3_printExercise {
     public static void main(String[] args) {
         System.out.println("Mike");
         System.out.println("Smith");

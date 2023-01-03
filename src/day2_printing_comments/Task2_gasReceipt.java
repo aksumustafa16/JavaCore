@@ -1,6 +1,6 @@
 package day2_printing_comments;
 
-public class gasReceipt {
+public class Task2_gasReceipt {
     public static void main(String[] args) {
         System.out.println("+----------------------------------+");
         System.out.println("|          MCLEAN STORE            |");
