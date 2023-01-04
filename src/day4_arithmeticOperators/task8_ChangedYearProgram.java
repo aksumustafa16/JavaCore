@@ -1,4 +1,4 @@
-package day3_variables_dataTypes;
+package day4_arithmeticOperators;
 
 public class task8_ChangedYearProgram {
     public static void main(String[] args) {
