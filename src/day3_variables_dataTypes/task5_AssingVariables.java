@@ -1,6 +1,6 @@
 package day3_variables_dataTypes;
 
-public class Task5_AssingVariables {
+public class task5_AssingVariables {
     public static void main(String[] args) {
         int a = 23;
         int b = 54;
