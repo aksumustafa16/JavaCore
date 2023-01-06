@@ -31,6 +31,11 @@ public class mixedInteger {
 
         byte res5 = 126 + 1;
 
+        int b = 25;
+        System.out.println(b++);
+        System.out.println(b--);
+        System.out.println(b);
+
 
     }
 }
