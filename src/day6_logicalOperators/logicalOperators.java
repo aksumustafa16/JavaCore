@@ -8,8 +8,6 @@ public class logicalOperators {
         int i1 = 5;
         int i2 = 10;
 
-
-
         boolean res1 = (i1==i2)&(c1==c2);
         boolean res2 = (i1==i2)&&(c1==c2);
         System.out.println("res1 = " + res1);   //false
@@ -19,5 +17,10 @@ public class logicalOperators {
         boolean res4 = (c1==c2)||(i1==i2);  //true
         System.out.println("res3 = " + res3);
         System.out.println("res4 = " + res4);
+
+        boolean res5 = (c1==c2)^(i1==i2); //true
+        boolean res6 = (c1==c2)^(i1!=i2); //false
+        System.out.println("res5 = " + res5);
+        System.out.println("res6 = " + res6);
     }
 }
