@@ -1,4 +1,4 @@
-package day8_oddEvenNumber;
+package day8_controlFlowStatement2;
 
 public class ifElseIfElse {
     public static void main(String[] args) {
