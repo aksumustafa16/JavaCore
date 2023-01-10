@@ -9,5 +9,8 @@ public class task_theNumberIsEqualOrNot {
         if (num1 == num2) {
             System.out.println("These number is equal");
         }
+        if (num1 != num2) {
+            System.out.println("These number is not equal");
+        }
     }
 }
