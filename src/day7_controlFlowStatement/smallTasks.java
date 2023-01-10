@@ -25,9 +25,16 @@ public class smallTasks {
             System.out.println("fees");
         }
 
-        int a,b = 0,c = 0;
-        if (b==50&&c==99) {
+        int a;
+        int b = 40;
+        int c = 100;
+        if (b==50&&c==100) {
             System.out.println("a = " + 20);
+        }
+
+        int temp = 69;
+        if (temp >= 70 && temp < 80) {
+            System.out.println("Ideal Temp");
         }
     }
 }
