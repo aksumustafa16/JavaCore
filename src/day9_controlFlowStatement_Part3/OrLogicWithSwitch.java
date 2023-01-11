@@ -1,4 +1,4 @@
-package day8_controlFlowStatement2;
+package day9_controlFlowStatement_Part3;
 
 public class OrLogicWithSwitch {
     public static void main(String[] args) {
